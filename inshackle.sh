@@ -1,7 +1,7 @@
 #!/bin/bash
 # Inshackle v1.0
-# coded by: @linux_choice
-# github.com/thelinuxchoice/inshackle
+# coded by: CYBER KALLAN
+# github.com/cyberkallan/inshackle-bot
 # If you use any part from this code, give me the credits, please, read the License
 
 
@@ -31,7 +31,7 @@ printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93mdP    dP \`8
 printf " \e[1;31mMMMM\e[0m                                                                    \n"
 printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m github.com/thelinuxchoice/inshackle\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m coded by cyber kallan (arjun arz)\e[0m\n"
 }
 
 
