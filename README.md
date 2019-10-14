@@ -1,7 +1,8 @@
 # Inshackle v1.0
+# Instagram bot,auto follower
 ## Author: github.com/cyberkallan/inshackle-bot
 ## IG: instagram.com/arz_beats
-
+## subscribe my YouTube channel - https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA
 ### Don't copy this code without give me the credits, nerd! Please read the License 
 
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
@@ -23,6 +24,7 @@ bash inshackle.sh
 
 ## by arjun arz
 
+![cb](https://user-images.githubusercontent.com/56509491/66774387-15100580-eedf-11e9-84ff-c0f396016bd5.jpg)
 
 ### Donate!
 Support the authors:
