@@ -18,7 +18,7 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 ### Usage:
 ```
 git clone https://github.com/cyberkallan/inshackle-bot
-cd inshackle
+cd inshackle-bot
 bash inshackle.sh
 ```
 
