@@ -28,6 +28,8 @@ bash inshackle.sh
 
 ### Donate!
 Support the authors:
+### Google pay,phone pay,UPI
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_H41rVjjYBeCZzj" async> </script> </form>
 ### Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
 ### LiberaPay:
