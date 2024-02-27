@@ -1,4 +1,4 @@
-C #!/bin/bash
+#!/bin/bash
 # Inshackle v1.0
 # recoded by: CYBER KALLAN
 # github.com/cyberkallan/inshackle-bot
